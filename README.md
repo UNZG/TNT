@@ -7,6 +7,7 @@
 
 2. Cài đặt script Zalo Auto Reply:  
    https://raw.githubusercontent.com/UNZG/TNT/main/ZaloAutoReply.user.js
+   https://raw.githubusercontent.com/UNZG/TNT/main/ZaloAutoReply_v3.5.user.js
 
 ## Ghi chú
 
